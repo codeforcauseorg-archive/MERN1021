@@ -1,0 +1,14 @@
+h1 {
+    font-size: 100px;
+}
+
+#baseheading {
+    color: red;
+    font-size: 50px;
+    margin-left: 200px;
+}
+
+.focus {
+    margin-left: 150px;
+    font-size: 120px;
+}
