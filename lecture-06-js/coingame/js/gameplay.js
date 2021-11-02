@@ -36,7 +36,7 @@
           root.removeChild(coin);
         }
       }, 2000);
-    }, 1000);
+    }, 100);
 
     setInterval(function () {
       let avail = true;
@@ -64,5 +64,5 @@
           root.removeChild(bomb);
         }
       }, 2000);
-    }, 1000);
+    }, 100);
   }
