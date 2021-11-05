@@ -1,0 +1,37 @@
+.calcbuttons {
+    width: 80px;
+    margin: 4px;
+}
+
+.calcbuttonseq {
+    width: 80px;
+    margin: 4px;
+    background-color: #4285f4;
+    color: white;
+    border-color: #4285f4;
+
+}
+
+.containerDiv {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonsDiv {
+    margin-top: 16px;
+    width: 50%;
+}
+
+.textDiv {
+    border: 2px solid black;
+    width: 50%;
+    border-radius: 16px; 
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
