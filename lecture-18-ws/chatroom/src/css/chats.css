@@ -1,0 +1,22 @@
+.sender {
+  display: flex;
+  flex-direction: row;
+  height: 75px;
+  width: 100vw;
+  align-items: center;
+  background-color: antiquewhite;
+}
+
+.chats {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  width: 100vw;
+  background-color: burlywood;
+}
+
+.root {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
